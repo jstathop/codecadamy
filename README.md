@@ -1,2 +1,2 @@
 # codecadamy
-All the code that was written from codecademy
+All the code that was written for codecademy
